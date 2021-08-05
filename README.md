@@ -5,7 +5,7 @@
 - [Introduction](#introduction)
     - [A Concise and Sufficient Series for All Beginning Developers](#a-concise-and-sufficient-series-for-all-beginning-developers)
     - [On Contextual Knowledge](#on-contextual-knowledge)
-- [Video Lessons](#video-lessons)
+- [Topics](#topics)
 
 ## Introduction  
 ### A Concise and Sufficient Series for All Beginning Developers  
@@ -32,7 +32,7 @@ Most imprtantly, consult with the underclassmen in SACM before finalizing the sc
 
 ---
 
-## Video Lessons  
+## Topics  
 ### The Command Line Interface
 #### 1.1 Introduction to the Unix/Linux Shell (Bash)  
 Description: 
