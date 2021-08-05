@@ -1,4 +1,4 @@
-# Video-Series-on-Git-and-Github
+# Presentation-Series-on-Git-and-Github
 
 ## Table of Contents
 
@@ -9,26 +9,24 @@
 
 ## Introduction  
 ### A Concise and Sufficient Series for All Beginning Developers  
-This video series aims to help introductory programming students get their work done in less time and with less pain by introducing them to the basics of software development ecosystem literacy. 
-The resulting video series, which may be supplemented with hands-on workshops, will, first and foremost, prioritize discussion of the neccessary skills to understand version control in the command line interface.
-Students who watch this series will come out with sufficient working knowledge of [Bash](https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html), [Git](https://git-scm.com/), [Github](https://github.com/), and code organization tips to enable them to focus maximal time on the advanced topics in their courses (rather than auxillary tools).
-Participants will be encouraged to ask their professors for help, join community discussions, apply what they have learned to their own projects, and most importantly help others.
-The sucess of this project will hinge on presenting the right concepts in the right order with sufficient detail in crystal clear fashion.
-For this reason, the video series shall be greatly shaped by the help of uncultivated minds of students in computer science, mathematics, physics, and all other data related studies.
-The target audience for this video series will be students in the following courses: Intro to Programming for Majors and Nonmajors, Programming Structures and Abstractions, Data Structures, Applied Statistical Methods in R.  
+This presentation series aims to help introductory programming students get their work done in less time and with less pain by introducing them to the basics of software development ecosystem literacy. 
+Students who watch this series will come out with sufficient working knowledge of [Bash](https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html), [Git](https://git-scm.com/), [Github](https://github.com/), and code organization tips focus maximal time on the advanced topics in their courses (rather than auxillary tools).
+Participants will be encouraged to ask their professors for help, join community discussions, apply what they have learned to their own projects.
+The success of this project will hinge on presenting the right concepts in the right order with sufficient detail in crystal clear fashion.
+For this reason, the presentation series shall be greatly shaped by the help of uncultivated minds of students in computer science, mathematics, physics, and all other data related studies.
 
-If the resulting feedback (if there is feedback at all) is largely positive, the curator(s) will expand the scope of the video series to include more ubiquitious tools in software development.
+If the resulting feedback is largely positive, the curator(s) will expand the scope of the presentation series to include more ubiquitious tools in software development.
 The series may include additional detail in subjects such as version control, code collaboration techniques, package/dependency management, task automation, and code modularization and organizaion.
 
 ### On Contextual Knowledge  
-As is true for most disciplines, many elements in Git and the CS lingo are defined circularly and seem to contradict themselves in different contexts. 
-Not only does lingo carry little if any meaning whatsoever to newcomers, without care, these words can actually do a great disservice to eager learners who inevitably find themselves going down rabit holes in search of a way to tether such words back to reality.
+As is true for most disciplines, many elements in Git and the CS lingo are defined circularly and contextually.
+Without care, these words can actually do a great disservice to eager learners who inevitably find themselves going down rabit holes in search of a way to tether such words back to reality.
 
 > *endless loop,* n. See loop, endless.  
 > *loop, endless,* n. See endless loop.  // me === :(
 
 In lesson crafting, strive to anchor each bit of new lingo to self-evident examples and objects. Rather than explaining the same concept in two or three different ways, you should show two or three examples of how they would use that concepts.
-Most imprtantly, consult with the underclassmen in SACM before finalizing the script.
+Always consult with the newcomers before finalizing the script.
 
 ---
 
