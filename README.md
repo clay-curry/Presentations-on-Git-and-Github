@@ -67,15 +67,5 @@ Please bring a computer with a shell or terminal installed. Linux and Mac usuall
 
 ### 1.2 Version Control
 
-### 1.3 Git Commits
-
-### Americans with Disabilities Act
-For creators of this series, it will be an upmost goal to provide equal opportunity for all interested students to learn the basics of software development ecosystem literacy. We will consider the needs for students who cannot see/hear sufficiently, take longer to learn new things, struggle with endurance while managing conflicting data, and affected by sensory issues such as rapidly changing screen brightness and noise.
-
-#### Visual and Audible Accomodations
-To accomodate individuals with reduced ability to distinguish between certain colors, see the following website on [choosing effective color schemes to accomodate those with various forms of colorblindness](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40).
-To accomodate individuals with reduced hearing ability, each video will provide a verified closed-captioning script 
-
-Further suggestions for accomodations are welcomed. 
 
 
