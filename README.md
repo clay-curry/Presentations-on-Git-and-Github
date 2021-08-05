@@ -38,32 +38,19 @@ This is an interactive presentation.
 The Unix/Linux shell (or command shell, or terminal) is one of the (if not the single) most powerful POSIX compliant computing tools for automating repetitive tasks, supporting communication between computer programs, and performing all operating-system-level tasks. 
 There are many shells available and this video will focus on the [Bash Shell](https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html).
 
-After watching this video, the student will be able perform the following simple tasks: 
+After watching this presentation, the student will be able perform the following simple tasks: 
 * Explain in simple terms what a program is
 * Explain the importance of shells in accessing systems programs
 * Explain why the Bash shell is the ideal shell to master before going on to learn other shells
 * Build a simple shell program
-
-Please bring a computer with a shell or terminal installed. Linux and Mac usually have this by default, and Windows users will need to follow the instructions 
-
-#### 1.2 Navigation and Visibility
-
 * How to navigate on your computer using the shell  
 * How to view files and directories
 * Passing flags and arguments
-
-#### 1.3 Everyday Use of the Shell
 * How to create, copy, edit, and delete files and directories  
-* 
-
-#### 1.4 Getting Better and Getting help
-* How to combine existing commands to do new actions    
 * How to save and re-use commands in shell scripts
 * Understanding Man pages
 * Links to additional resourses on shell customiziation, command line text editing, and more. 
 
+Please bring a computer with a shell or terminal installed. Linux and Mac usually have this by default, and Windows users will need to follow the instructions 
 
-### 1.2 Version Control
-
-
-
+### 1.2 Distributed Version Control Using Git
